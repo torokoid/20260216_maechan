@@ -474,7 +474,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/02/15 alis @Mae Chan</p>
+<p>Copyright 2026/02/16 alis @Mae Chan</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
